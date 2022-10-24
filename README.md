@@ -22,7 +22,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [GitHub Spaces](https://your-solution-url.com](https://dragonfireshield.github.io/stats-preview-card/)
+- Solution URL: [GitHub Spaces](https://dragonfireshield.github.io/stats-preview-card/)
 
 ## My process
 
